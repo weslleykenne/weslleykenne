@@ -15,11 +15,16 @@
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary>👨‍💻 Mais sobre mim</summary>
 
   - 💬 Tenho 27 anos e moro em Brasilia. Tenho um inglês intermediário e tenho experiência com JavaScript, Html5, CSS3, Linux, Git. Eu quero aprender mais, compreender mais, evoluir sempre. Quero ter direito a sonhar alto e alcançar meus objetivos com garra e determinação.
 
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+  - ⚡ Gosto de ler, seja um bom livro, além de assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \o/
+
+  - 🎈 Hoje sou lider do projeto Ágape, um trabalho voluntário que visita hospitais, casa de apoio e lar 
+de idosos, AMO AJUDAR O PROXIMO.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/agape_ipcc/)
+
 </details>
 
 <!-- Links -->
