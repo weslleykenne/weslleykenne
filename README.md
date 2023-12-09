@@ -10,7 +10,7 @@
 
   - 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas. <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
-  - 🔭 Estou em busca da minha primeira oportunidade de estágio. Meu sonho é um dia trabalhar com Desenvolvedor Web..
+  - 🔭 Estou em busca da minha primeira oportunidade de estágio. Meu sonho é um dia ser um Desenvolvedor Web.
 </p>
 
 <!-- Dropdown -->
