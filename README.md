@@ -34,7 +34,7 @@ de idosos, AMO AJUDAR O PROXIMO.
 
 
 <!-- GithubStats -->
-![weslleykenne GitHub stats](https://github-readme-stats.vercel.app/api?username=weslleykenne&show_icons=true&theme=dark)
+![weslleykenne GitHub stats](https://github-readme-stats.vercel.app/api?username=weslleykenne&show_icons=true&theme=merko)
 
 
 
