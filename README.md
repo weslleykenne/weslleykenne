@@ -29,7 +29,7 @@
 
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=weslleykenne_icons=true&theme=gotham)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=weslleykenne_icons=true&theme=radical)
 
 
 <!-- Portfolio -->
