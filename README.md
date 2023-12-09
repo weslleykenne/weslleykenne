@@ -30,7 +30,7 @@
 
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=weslleykenne_icons=true&theme=gotham)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weslleykenne)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- Portfolio -->
 ## Portfolio:
