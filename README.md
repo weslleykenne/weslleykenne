@@ -41,11 +41,10 @@ de idosos, AMO AJUDAR O PROXIMO.
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Python - Exploratory data analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [SQL - Querying and analyzing data with AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
-- [C - Registration and query system](https://github.com/VariableBee/Cartorio)
-
+- [Html5 - Css e JavaScript - Meu melhor projeto atualmente ](https://github.com/weslleykenne/projeto-glass-html5)
+- [JavaScript - Verifica a idade e gênero ](https://github.com/weslleykenne/Verificador)
+- [JavaScript - Contador de números](https://github.com/weslleykenne/Contador)
+- [JavaScript - Analisador de números](https://github.com/weslleykenne/analisador)
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
